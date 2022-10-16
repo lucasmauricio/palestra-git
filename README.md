@@ -4,6 +4,7 @@ Repositório criado para executar comandos Git de exemplo.
 
 ## Comandos utilizados
 
+`git init`
 `git clone`
 `git add ARQUIVO`
 `git commit -m "MENSGEM"`

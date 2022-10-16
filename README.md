@@ -8,5 +8,3 @@ Repositório criado para executar comandos Git de exemplo.
 `git add ARQUIVO`
 `git commit -m "MENSGEM"`
 `git push`
-`git pull`
-
